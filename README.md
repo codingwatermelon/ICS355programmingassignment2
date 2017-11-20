@@ -5,4 +5,4 @@ Read 'ICS 355 - Assignment 2 Summary.pdf' before attempting to run the program a
 
 See 'sample_output.txt' for example runs.
 
-- Joaquin
+- jftorres
