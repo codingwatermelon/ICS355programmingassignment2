@@ -1,0 +1,232 @@
+Welcome to UHICS355FinProgram v2.0. Please login.
+Username: mnelson
+Password: y
+
+Successfully authenticated. Hello mnelson!
+
+Welcome to the financial database for UH ICS 355.
+Here, you can update and view user account balances in the record. Please note, at this time, we can only accept values of USD ($), UK Pound (£), and Euro (€).
+
+*--------------------------------*
+Main Menu
+1) Withdraw money from an account
+2) Deposit money to an account
+3) Transfer money from one account to another
+4) Print all records
+5) Currency conversion
+6) Add user to database
+7) Delete user from database
+8) Exit
+*--------------------------------*
+
+Please select one of the options using its number: 3
+
+Enter the number of the account which you want to transfer money to: 35512
+
+Found user Dan Clark with account number: 35512
+Balance: $1126.92
+
+Found user Mark Nelson with account number: 12345
+Balance: $1122.16
+
+Enter the amount of money you would like to transfer into this account, indicating the type of currency in front of the amount (e.g. $3150.02, £10.52, etc.): $10.00
+
+Withdrawing $10.00 from account 12345
+New Balance: $1112.16
+
+Depositing $10.00 to account 35512
+New Balance: $1136.92
+
+*--------------------------------*
+Main Menu
+1) Withdraw money from an account
+2) Deposit money to an account
+3) Transfer money from one account to another
+4) Print all records
+5) Currency conversion
+6) Add user to database
+7) Delete user from database
+8) Exit
+*--------------------------------*
+
+Please select one of the options using its number: 4
+
+Record Number: 1
+Account Number: 12314
+Name: Jack Torres
+Balance: $49.24
+
+Record Number: 2
+Account Number: 12345
+Name: Mark Nelson
+Balance: $1112.16
+
+Record Number: 3
+Account Number: 35512
+Name: Dan Clark
+Balance: $1136.92
+
+Record Number: 4
+Account Number: 123123
+Name: Jack toera
+Balance: $100.00
+
+*--------------------------------*
+Main Menu
+1) Withdraw money from an account
+2) Deposit money to an account
+3) Transfer money from one account to another
+4) Print all records
+5) Currency conversion
+6) Add user to database
+7) Delete user from database
+8) Exit
+*--------------------------------*
+
+Please select one of the options using its number: 7
+
+Enter the account number of the record to delete: 123123
+
+Success: Record deleted
+
+*--------------------------------*
+Main Menu
+1) Withdraw money from an account
+2) Deposit money to an account
+3) Transfer money from one account to another
+4) Print all records
+5) Currency conversion
+6) Add user to database
+7) Delete user from database
+8) Exit
+*--------------------------------*
+
+Please select one of the options using its number: 4
+
+Record Number: 1
+Account Number: 12314
+Name: Jack Torres
+Balance: $49.24
+
+Record Number: 2
+Account Number: 12345
+Name: Mark Nelson
+Balance: $1112.16
+
+Record Number: 3
+Account Number: 35512
+Name: Dan Clark
+Balance: $1136.92
+
+*--------------------------------*
+Main Menu
+1) Withdraw money from an account
+2) Deposit money to an account
+3) Transfer money from one account to another
+4) Print all records
+5) Currency conversion
+6) Add user to database
+7) Delete user from database
+8) Exit
+*--------------------------------*
+
+Please select one of the options using its number: 6
+
+Enter the account number of the record: 1234567
+
+Enter the name of the account holder: Tester Man
+
+Enter the username of the account: testerman
+
+Enter the password for the account: testing
+
+Success: Account added
+
+New accounts automatically come with $100.00. Go wild!
+
+*--------------------------------*
+Main Menu
+1) Withdraw money from an account
+2) Deposit money to an account
+3) Transfer money from one account to another
+4) Print all records
+5) Currency conversion
+6) Add user to database
+7) Delete user from database
+8) Exit
+*--------------------------------*
+
+Please select one of the options using its number: 8
+Program ended with exit code: 0
+
+Welcome to UHICS355FinProgram v2.0. Please login.
+Username: testerman
+Password: testing
+
+Successfully authenticated. Hello testerman!
+
+Welcome to the financial database for UH ICS 355.
+Here, you can update and view user account balances in the record. Please note, at this time, we can only accept values of USD ($), UK Pound (£), and Euro (€).
+
+*--------------------------------*
+Main Menu
+1) Withdraw money from an account
+2) Deposit money to an account
+3) Transfer money from one account to another
+4) Print all records
+5) Currency conversion
+6) Add user to database
+7) Delete user from database
+8) Exit
+*--------------------------------*
+
+Please select one of the options using its number: 6
+
+*--------------------------------*
+Main Menu
+1) Withdraw money from an account
+2) Deposit money to an account
+3) Transfer money from one account to another
+4) Print all records
+5) Currency conversion
+6) Add user to database
+7) Delete user from database
+8) Exit
+*--------------------------------*
+
+Please select one of the options using its number: 4
+
+Record Number: 1
+Account Number: 12314
+Name: Jack Torres
+Balance: $49.24
+
+Record Number: 2
+Account Number: 12345
+Name: Mark Nelson
+Balance: $1112.16
+
+Record Number: 3
+Account Number: 35512
+Name: Dan Clark
+Balance: $1136.92
+
+Record Number: 4
+Account Number: 1234567
+Name: Tester Man
+Balance: $100.00
+
+*--------------------------------*
+Main Menu
+1) Withdraw money from an account
+2) Deposit money to an account
+3) Transfer money from one account to another
+4) Print all records
+5) Currency conversion
+6) Add user to database
+7) Delete user from database
+8) Exit
+*--------------------------------*
+
+Please select one of the options using its number: 8
+Program ended with exit code: 0
